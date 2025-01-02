@@ -86,7 +86,7 @@ https://www.aclweb.org/anthology/D19-5902.pdf
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
 
 ## Credit
-National Institute for Japanese Language and Linguistics (2021) WLSP-familiarity (ver. 3.0)
+National Institute for Japanese Language and Linguistics (2024) WLSP-familiarity (ver. 4.0)
 
 ## Contact
 kotonoha@ninjal.ac.jp
